@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image](intellect.jpg)
+![Image](intellect.jpeg)
 
 |Repository | Content |
 |---|---|
