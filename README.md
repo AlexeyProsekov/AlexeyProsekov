@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 |---|---|
 
 | <a href="https://github.com/AlexeyProsekov/Diplomas-and-certificates/blob/main/README.md"><img src="sert_1.png" alt="Diplomas&certificates"></a> | Diplomas, certificates, certificates of courses and hackathons |
-| <a href="https://github.com/AlexeyProsekov/Data_scientist-Sberuniversity/blob/main/README.md"><img src="sberfon_1.png" alt="Data_scientist-Sberuniversity"></a> | Completed projects and ready-made materials while studying at Sberbank Corporate University on a refresher course - "Data scientist" |
+| <a href="https://github.com/AlexeyProsekov/Data_Scientist-SberUniversity/blob/main/README.md"><img src="sberfon_1.png" alt="Data_Scientist-SberUniversity"></a> | Completed projects and ready-made materials while studying at Sberbank Corporate University on a refresher course - "Data scientist" |
