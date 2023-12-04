@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image](fon_1.png)
+![Image](intellect.jpg)
 
 |Repository | Content |
 |---|---|
-
 | <a href="https://github.com/AlexeyProsekov/Diplomas_Certificates/blob/main/README.md"><img src="sert_1.png" alt="Diplomas_Certificates"></a> | Diplomas, certificates, certificates of courses|
 | <a href="https://github.com/AlexeyProsekov/Data_Scientist-SberUniversity/blob/main/README.md"><img src="sberfon_1.png" alt="Data_Scientist-SberUniversity"></a> | Completed projects and ready-made materials while studying at Sberbank Corporate University on a refresher course - "Data scientist" |
